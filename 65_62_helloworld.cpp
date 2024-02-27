@@ -2,7 +2,9 @@
 
 int main()
 {
-	std::cout << "62_KhaTu, 65_ThanhVu ";
+
+	std::cout << "Thay doi ben nhanh Branch";
+
 
 	return 0;
 }
